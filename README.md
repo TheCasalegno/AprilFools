@@ -1,2 +1,2 @@
-# aprilfools
+# AprilFools
 A website for AprilFools!
